@@ -97,3 +97,7 @@ Should be able include Uno based nuget packages to any depth.
 
 Workaround:
 None found
+
+========================================================================================
+
+Confirm resolved in Uno.Sdk 5.4.0-dev.135
