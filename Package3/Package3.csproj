@@ -50,6 +50,7 @@
 	</ItemGroup>
 
 	<ItemGroup>
+	  <PackageReference Include="Vssl.Sample.Package2" />
 	</ItemGroup>
 
 	<Target Condition="'$(Configuration)' == 'Release'" Name="CopyPackage" AfterTargets="Pack">
